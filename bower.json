@@ -1,0 +1,21 @@
+{
+  "name": "3DProgramDemo",
+  "description": "",
+  "main": "app.js",
+  "authors": [
+    "Daomaster <daoyun.zeng@gmail.com>"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/Daomaster/3DProgramDemo",
+  "moduleType": [],
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "three.js": "threejs#*"
+  }
+}
